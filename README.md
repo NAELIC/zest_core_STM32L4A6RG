@@ -1,5 +1,7 @@
 # PlatformIO Mbed Template for Zest_Core_STM32L4A6RG (6Tron)
 
+This template has inspired by the work of [CATIE](https://www.catie.fr/).
+
 ## Resources
 
 - [MicroController](https://www.st.com/en/microcontrollers-microprocessors/stm32l4a6rg.html)
